@@ -152,7 +152,7 @@
 					<branch>refs/heads/mvn-repo</branch>
 					<includes><include>**/*</include></includes>
 					<repositoryName>maven-library-private-proxies</repositoryName>
-					<repositoryOwner>thecarisma</repositoryOwner>
+					<repositoryOwner>maven-packages</repositoryOwner>
 				</configuration>
 				<executions>
 					<execution>
