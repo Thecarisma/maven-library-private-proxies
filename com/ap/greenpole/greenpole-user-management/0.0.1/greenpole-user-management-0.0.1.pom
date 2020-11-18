@@ -149,10 +149,10 @@
 					<message>Maven artifacts for ${project.version}</message>
 					<noJekyll>true</noJekyll>
 					<outputDirectory>${project.build.directory}/mvn-repo</outputDirectory>
-					<branch>refs/heads/mvn-repo</branch>
+					<branch>refs/heads/greenpole-user-management</branch>
 					<includes><include>**/*</include></includes>
-					<repositoryName>greenpole-v2-backend-user-management</repositoryName>
-					<repositoryOwner>africa-prudential</repositoryOwner>
+					<repositoryName>maven-library-private-proxies</repositoryName>
+					<repositoryOwner>maven-packages</repositoryOwner>
 				</configuration>
 				<executions>
 					<execution>
