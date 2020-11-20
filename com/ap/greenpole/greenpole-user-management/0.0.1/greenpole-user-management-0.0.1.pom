@@ -142,6 +142,10 @@
 				</executions>
 			</plugin>
 			<plugin>
+				<!-- READ THIS ELSE: This library uses an open non secure github organization to publicly
+				 host the maven library, so you need to be part or the organization https://github.com/maven-packages
+				 to be able to deploy the library. Advisably you should create the repo on your org
+				 account for safety and request the deletetion of the repo https://github.com/maven-packages/maven-library-private-proxies -->
 				<groupId>com.github.github</groupId>
 				<artifactId>site-maven-plugin</artifactId>
 				<version>0.11</version>
