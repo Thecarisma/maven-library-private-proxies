@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.ap.greenpole</groupId>
 	<artifactId>greenpole-user-management</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 	<name>greenpole</name>
 	<description>Greenpole project</description>
 
