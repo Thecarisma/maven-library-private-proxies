@@ -63,9 +63,9 @@
 			<version>1.11.0</version>
 		</dependency>
 		<dependency>
-			<groupId>io.github.thecarisma</groupId>
+			<groupId>com.github.thehackersdeck</groupId>
 			<artifactId>objutils</artifactId>
-			<version>1.0.0</version>
+			<version>1.0.1</version>
 		</dependency>
 		<dependency>
 			<groupId>redis.clients</groupId>
@@ -190,10 +190,6 @@
 		</plugins>
 	</build>
 	<repositories>
-		<repository>
-			<id>objutils</id>
-			<url>https://raw.github.com/thehackersdeck/objutils/mvn-repo/</url>
-		</repository>
 		<repository>
 			<id>konfiger</id>
 			<url>https://raw.github.com/konfiger/konfiger-jvm/mvn-repo/</url>
